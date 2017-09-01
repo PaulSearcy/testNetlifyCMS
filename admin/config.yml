@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: stelter/testNetlifyCMS
+  branch: master
+  media_folder: "images/uploads"
